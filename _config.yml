@@ -1,0 +1,28 @@
+name: CmediaTalent
+favicon: null
+layout_spectrum: 0.025647818809375167
+typography_spectrum: 0.2844469465781003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.44380004284903407
+  lightness: 0.5510333925485611
+  saturation: 0.10988707980141044
+  rhythmicContrast: 0.2616796160582453
+purpose: []
